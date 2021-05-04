@@ -4,7 +4,7 @@
 <hr>
 <h3 align="center">🙋‍♂️About Me🙋‍♂️ </h3>
 <p>My name is Johan David, I am 13 years old and I got into the world of programming thanks
-  to <a href="https://github.com/OpenVek"></a> he is a great
+  to <a href="https://github.com/OpenVek">@OpenVek</a> he is a great
   friend who I have known some years ago at school. And he has helped me a lot to enter this world, I have always liked
   technology a lot and I joined it with programming. I hope to learn and advance a lot with each passing day</p>
 <hr>
