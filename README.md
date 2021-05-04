@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center"><img src="https://avatars.githubusercontent.com/u/80553459?s=60&v=4" alt="" width="300px"></div>
 
-<!--
-**JohanDev0/JohanDev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋Hello my name is Johan and I am a Software / Web Developer👋</h3>
+<hr>
+<h3 align="center">🙋‍♂️About Me🙋‍♂️ </h3>
+<p>My name is Johan David, I am 13 years old and I got into the world of programming thanks
+  to @OpenVek he is a great
+  friend who I have known some years ago at school. And he has helped me a lot to enter this world, I have always liked
+  technology a lot and I joined it with programming. I hope to learn and advance a lot with each passing day</p>
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">👨‍💻My Skills👨‍💻</h3>
