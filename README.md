@@ -10,9 +10,12 @@
 <hr>
 
 <h3 align="center">👨‍💻My Skills👨‍💻</h3>
-
+<img src="" alt="">
+<img src="" alt="">
+<img src="" alt="">
 <h3 align="center">🧰My Tools🧰</h3>
 
 <h3 align="center">💻I want to learn💻</h3>
+
 
 </div>
