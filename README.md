@@ -15,7 +15,7 @@
 <img src="" alt="">
 <h3 align="center">🧰My Tools🧰</h3>
 
-<h3 align="center">💻I want to learn💻</h3>
+<h3 align="center">💻I Want to learn💻</h3>
 
 
 </div>
