@@ -1,4 +1,4 @@
-<div align="center"><img src="https://avatars.githubusercontent.com/u/80553459?s=60&v=4" alt="" width="300px"></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/80553459?v=4" alt="" width="300px"></div>
 
 <h3 align="center">👋Hello my name is Johan and I am a Software / Web Developer👋</h3>
 <hr>
