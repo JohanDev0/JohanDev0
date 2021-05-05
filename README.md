@@ -9,14 +9,36 @@
   technology a lot and I joined it with programming. I hope to learn and advance a lot with each passing day</p>
 <hr>
 
+
+
+
+
+
+
+
 <h3 align="center">👨‍💻My Skills👨‍💻</h3>
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=1A1A1A&style=for-the-badge" />
+  
+  </p>
+
 <h3 align="center">🧰My Tools🧰</h3>
-<img src="" alt="">
-<img src="" alt="">
-<img src="" alt="">
+
+  <img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=ffffff&style=for-the-badge" />
+
+  <img
+    src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=Visual-Studio&logoColor=ffffff&style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual-Studio-Code&logoColor=ffffff&style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge" />
+
+
+  <img src="https://img.shields.io/badge/-Chrome-4285F4?logo=Google-Chrome&logoColor=ffffff&style=for-the-badge" />
+
+
 <h3 align="center">💻I Want to learn💻</h3>
 <img src="" alt="">
 <img src="" alt="">
