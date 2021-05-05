@@ -9,12 +9,19 @@
   technology a lot and I joined it with programming. I hope to learn and advance a lot with each passing day</p>
 <hr>
 
+
+
+
+
+
+
+
+
+
 <h3 align="center">👨‍💻My Skills👨‍💻</h3>
   <p>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge" />
-  
     <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge" />
-  
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=1A1A1A&style=for-the-badge" />
   
   </p>
