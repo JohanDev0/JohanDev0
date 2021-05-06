@@ -42,7 +42,6 @@
 <p>
   <img src="https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=ffffff&style=for-the-badge" />
   <img
-    src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=Visual-Studio&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual-Studio-Code&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=ffffff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Chrome-4285F4?logo=Google-Chrome&logoColor=ffffff&style=for-the-badge" />
